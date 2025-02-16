@@ -241,8 +241,7 @@ for (let i = 0; i < numArrays.length; i++){
       // console.log(numArrays[i][j])
       total += numArrays[i][j];
       // console.log(total)
-   }
-     
+
 }
 // // Loop for each hour of the clock
 // for (let hour = 1; hour <= 12; hour++) {
